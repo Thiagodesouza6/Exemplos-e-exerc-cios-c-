@@ -1,0 +1,5 @@
+C:\Users\30719\Desktop\areadotrepezio\areadotrepezio\bin\Debug\areadotrepezio.exe.config
+C:\Users\30719\Desktop\areadotrepezio\areadotrepezio\bin\Debug\areadotrepezio.exe
+C:\Users\30719\Desktop\areadotrepezio\areadotrepezio\bin\Debug\areadotrepezio.pdb
+C:\Users\30719\Desktop\areadotrepezio\areadotrepezio\obj\Debug\areadotrepezio.exe
+C:\Users\30719\Desktop\areadotrepezio\areadotrepezio\obj\Debug\areadotrepezio.pdb

@@ -1,0 +1,6 @@
+C:\Users\30719\Desktop\olamundo\olamundo\bin\Debug\olamundo.exe.config
+C:\Users\30719\Desktop\olamundo\olamundo\bin\Debug\olamundo.exe
+C:\Users\30719\Desktop\olamundo\olamundo\bin\Debug\olamundo.pdb
+C:\Users\30719\Desktop\olamundo\olamundo\obj\Debug\olamundo.csprojResolveAssemblyReference.cache
+C:\Users\30719\Desktop\olamundo\olamundo\obj\Debug\olamundo.exe
+C:\Users\30719\Desktop\olamundo\olamundo\obj\Debug\olamundo.pdb

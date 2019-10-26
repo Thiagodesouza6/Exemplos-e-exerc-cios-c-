@@ -1,0 +1,11 @@
+C:\Users\30719\Desktop\conta\conta\bin\Debug\conta.exe.config
+C:\Users\30719\Desktop\conta\conta\bin\Debug\conta.exe
+C:\Users\30719\Desktop\conta\conta\bin\Debug\conta.pdb
+C:\Users\30719\Desktop\conta\conta\obj\Debug\conta.exe
+C:\Users\30719\Desktop\conta\conta\obj\Debug\conta.pdb
+C:\Users\30719\Desktop\programação pronto\conta\conta\bin\Debug\conta.exe.config
+C:\Users\30719\Desktop\programação pronto\conta\conta\obj\Debug\conta.exe
+C:\Users\30719\Desktop\programação pronto\conta\conta\obj\Debug\conta.pdb
+F:\programação pronto\conta\conta\bin\Debug\conta.exe.config
+F:\programação pronto\conta\conta\obj\Debug\conta.exe
+F:\programação pronto\conta\conta\obj\Debug\conta.pdb

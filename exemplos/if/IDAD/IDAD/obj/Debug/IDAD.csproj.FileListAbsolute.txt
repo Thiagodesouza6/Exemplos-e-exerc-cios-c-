@@ -1,0 +1,5 @@
+C:\Users\30719\Desktop\IDAD\IDAD\bin\Debug\IDAD.exe.config
+C:\Users\30719\Desktop\IDAD\IDAD\bin\Debug\IDAD.exe
+C:\Users\30719\Desktop\IDAD\IDAD\bin\Debug\IDAD.pdb
+C:\Users\30719\Desktop\IDAD\IDAD\obj\Debug\IDAD.exe
+C:\Users\30719\Desktop\IDAD\IDAD\obj\Debug\IDAD.pdb

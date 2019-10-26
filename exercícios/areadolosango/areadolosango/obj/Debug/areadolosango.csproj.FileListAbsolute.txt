@@ -1,0 +1,9 @@
+C:\Users\30719\Desktop\areadolosango\areadolosango\bin\Debug\areadolosango.exe.config
+C:\Users\30719\Desktop\areadolosango\areadolosango\bin\Debug\areadolosango.exe
+C:\Users\30719\Desktop\areadolosango\areadolosango\bin\Debug\areadolosango.pdb
+C:\Users\30719\Desktop\areadolosango\areadolosango\obj\Debug\areadolosango.csprojResolveAssemblyReference.cache
+C:\Users\30719\Desktop\areadolosango\areadolosango\obj\Debug\areadolosango.exe
+C:\Users\30719\Desktop\areadolosango\areadolosango\obj\Debug\areadolosango.pdb
+C:\Users\30719\Desktop\programação pronto\areadolosango\areadolosango\bin\Debug\areadolosango.exe.config
+C:\Users\30719\Desktop\programação pronto\areadolosango\areadolosango\obj\Debug\areadolosango.exe
+C:\Users\30719\Desktop\programação pronto\areadolosango\areadolosango\obj\Debug\areadolosango.pdb

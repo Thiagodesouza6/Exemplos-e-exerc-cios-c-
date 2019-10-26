@@ -1,0 +1,6 @@
+C:\Users\30719\Desktop\numerosdivisiveis\numerosdivisiveis\bin\Debug\numerosdivisiveis.exe.config
+C:\Users\30719\Desktop\numerosdivisiveis\numerosdivisiveis\bin\Debug\numerosdivisiveis.exe
+C:\Users\30719\Desktop\numerosdivisiveis\numerosdivisiveis\bin\Debug\numerosdivisiveis.pdb
+C:\Users\30719\Desktop\numerosdivisiveis\numerosdivisiveis\obj\Debug\numerosdivisiveis.csprojResolveAssemblyReference.cache
+C:\Users\30719\Desktop\numerosdivisiveis\numerosdivisiveis\obj\Debug\numerosdivisiveis.exe
+C:\Users\30719\Desktop\numerosdivisiveis\numerosdivisiveis\obj\Debug\numerosdivisiveis.pdb

@@ -1,0 +1,11 @@
+C:\Users\30719\Desktop\valordeabba\valordeabba\bin\Debug\valordeabba.exe.config
+C:\Users\30719\Desktop\valordeabba\valordeabba\bin\Debug\valordeabba.exe
+C:\Users\30719\Desktop\valordeabba\valordeabba\bin\Debug\valordeabba.pdb
+C:\Users\30719\Desktop\valordeabba\valordeabba\obj\Debug\valordeabba.exe
+C:\Users\30719\Desktop\valordeabba\valordeabba\obj\Debug\valordeabba.pdb
+C:\Users\30719\Desktop\programação pronto\valordeabba\valordeabba\bin\Debug\valordeabba.exe.config
+C:\Users\30719\Desktop\programação pronto\valordeabba\valordeabba\obj\Debug\valordeabba.exe
+C:\Users\30719\Desktop\programação pronto\valordeabba\valordeabba\obj\Debug\valordeabba.pdb
+C:\Users\30719\Desktop\programação pronto\valordeabba\valordeabba\bin\Debug\valordeabba.exe
+C:\Users\30719\Desktop\programação pronto\valordeabba\valordeabba\bin\Debug\valordeabba.pdb
+C:\Users\30719\Desktop\programação pronto\valordeabba\valordeabba\obj\Debug\valordeabba.csprojResolveAssemblyReference.cache

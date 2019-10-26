@@ -1,0 +1,8 @@
+C:\Users\30719\Desktop\ABC\ABC\bin\Debug\ABC.exe.config
+C:\Users\30719\Desktop\ABC\ABC\bin\Debug\ABC.exe
+C:\Users\30719\Desktop\ABC\ABC\bin\Debug\ABC.pdb
+C:\Users\30719\Desktop\ABC\ABC\obj\Debug\ABC.exe
+C:\Users\30719\Desktop\ABC\ABC\obj\Debug\ABC.pdb
+C:\Users\30719\Desktop\programação\ABC\ABC\bin\Debug\ABC.exe.config
+C:\Users\30719\Desktop\programação\ABC\ABC\obj\Debug\ABC.exe
+C:\Users\30719\Desktop\programação\ABC\ABC\obj\Debug\ABC.pdb

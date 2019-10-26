@@ -1,0 +1,10 @@
+c:\users\30719.etecpaof.000\documents\visual studio 2015\Projects\exercicio1\exercicio1\bin\Debug\exercicio1.exe.config
+C:\Users\30719.ETECPAOF.000\Desktop\exercicio1\exercicio1\bin\Debug\exercicio1.exe.config
+C:\Users\30719.ETECPAOF.000\Desktop\exercicio1\exercicio1\obj\Debug\exercicio1.csprojResolveAssemblyReference.cache
+C:\Users\30719.ETECPAOF.000\Desktop\exercicio1\exercicio1\bin\Debug\exercicio1.exe
+C:\Users\30719.ETECPAOF.000\Desktop\exercicio1\exercicio1\bin\Debug\exercicio1.pdb
+C:\Users\30719.ETECPAOF.000\Desktop\exercicio1\exercicio1\obj\Debug\exercicio1.exe
+C:\Users\30719.ETECPAOF.000\Desktop\exercicio1\exercicio1\obj\Debug\exercicio1.pdb
+F:\exercicio1\exercicio1\bin\Debug\exercicio1.exe.config
+F:\exercicio1\exercicio1\obj\Debug\exercicio1.exe
+F:\exercicio1\exercicio1\obj\Debug\exercicio1.pdb

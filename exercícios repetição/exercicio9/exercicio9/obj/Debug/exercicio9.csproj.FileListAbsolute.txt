@@ -1,0 +1,18 @@
+c:\users\34892\documents\visual studio 2015\Projects\exercicio9\exercicio9\bin\Debug\exercicio9.exe.config
+c:\users\34892\documents\visual studio 2015\Projects\exercicio9\exercicio9\bin\Debug\exercicio9.exe
+c:\users\34892\documents\visual studio 2015\Projects\exercicio9\exercicio9\bin\Debug\exercicio9.pdb
+c:\users\34892\documents\visual studio 2015\Projects\exercicio9\exercicio9\obj\Debug\exercicio9.csprojResolveAssemblyReference.cache
+c:\users\34892\documents\visual studio 2015\Projects\exercicio9\exercicio9\obj\Debug\exercicio9.exe
+c:\users\34892\documents\visual studio 2015\Projects\exercicio9\exercicio9\obj\Debug\exercicio9.pdb
+F:\--\exercicio9\exercicio9\bin\Debug\exercicio9.exe.config
+F:\--\exercicio9\exercicio9\obj\Debug\exercicio9.exe
+F:\--\exercicio9\exercicio9\obj\Debug\exercicio9.pdb
+F:\--\exercicio9\exercicio9\bin\Debug\exercicio9.exe
+F:\--\exercicio9\exercicio9\bin\Debug\exercicio9.pdb
+F:\--\exercicio9\exercicio9\obj\Debug\exercicio9.csprojResolveAssemblyReference.cache
+F:\--\c#\exercicio9\exercicio9\bin\Debug\exercicio9.exe.config
+F:\--\c#\exercicio9\exercicio9\obj\Debug\exercicio9.exe
+F:\--\c#\exercicio9\exercicio9\obj\Debug\exercicio9.pdb
+F:\--\c#\exercicio9\exercicio9\bin\Debug\exercicio9.exe
+F:\--\c#\exercicio9\exercicio9\bin\Debug\exercicio9.pdb
+F:\--\c#\exercicio9\exercicio9\obj\Debug\exercicio9.csprojResolveAssemblyReference.cache

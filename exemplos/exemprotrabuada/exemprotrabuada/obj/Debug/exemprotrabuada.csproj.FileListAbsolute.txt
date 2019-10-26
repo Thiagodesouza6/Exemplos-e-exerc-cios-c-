@@ -1,0 +1,6 @@
+C:\Users\30719.ETECPAOF.000\Desktop\exemprotrabuada\exemprotrabuada\bin\Debug\exemprotrabuada.exe.config
+C:\Users\30719.ETECPAOF.000\Desktop\exemprotrabuada\exemprotrabuada\bin\Debug\exemprotrabuada.exe
+C:\Users\30719.ETECPAOF.000\Desktop\exemprotrabuada\exemprotrabuada\bin\Debug\exemprotrabuada.pdb
+C:\Users\30719.ETECPAOF.000\Desktop\exemprotrabuada\exemprotrabuada\obj\Debug\exemprotrabuada.csprojResolveAssemblyReference.cache
+C:\Users\30719.ETECPAOF.000\Desktop\exemprotrabuada\exemprotrabuada\obj\Debug\exemprotrabuada.exe
+C:\Users\30719.ETECPAOF.000\Desktop\exemprotrabuada\exemprotrabuada\obj\Debug\exemprotrabuada.pdb

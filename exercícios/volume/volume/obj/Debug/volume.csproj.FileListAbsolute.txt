@@ -1,0 +1,15 @@
+C:\Users\30719\Desktop\volume\volume\bin\Debug\volume.exe.config
+C:\Users\30719\Desktop\volume\volume\bin\Debug\volume.exe
+C:\Users\30719\Desktop\volume\volume\bin\Debug\volume.pdb
+C:\Users\30719\Desktop\volume\volume\obj\Debug\volume.csprojResolveAssemblyReference.cache
+C:\Users\30719\Desktop\volume\volume\obj\Debug\volume.exe
+C:\Users\30719\Desktop\volume\volume\obj\Debug\volume.pdb
+C:\Users\30719\Desktop\programação\volume\volume\bin\Debug\volume.exe.config
+C:\Users\30719\Desktop\programação\volume\volume\obj\Debug\volume.exe
+C:\Users\30719\Desktop\programação\volume\volume\obj\Debug\volume.pdb
+C:\Users\30719\Desktop\programação pronto\volume\volume\bin\Debug\volume.exe.config
+C:\Users\30719\Desktop\programação pronto\volume\volume\obj\Debug\volume.exe
+C:\Users\30719\Desktop\programação pronto\volume\volume\obj\Debug\volume.pdb
+C:\Users\30719\Desktop\programação pronto\volume\volume\bin\Debug\volume.exe
+C:\Users\30719\Desktop\programação pronto\volume\volume\bin\Debug\volume.pdb
+C:\Users\30719\Desktop\programação pronto\volume\volume\obj\Debug\volume.csprojResolveAssemblyReference.cache

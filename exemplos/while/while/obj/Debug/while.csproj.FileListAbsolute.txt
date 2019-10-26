@@ -1,0 +1,8 @@
+c:\users\30719.etecpaof.000\documents\visual studio 2015\Projects\while\while\bin\Debug\@while.exe.config
+c:\users\30719.etecpaof.000\documents\visual studio 2015\Projects\while\while\bin\Debug\@while.exe
+c:\users\30719.etecpaof.000\documents\visual studio 2015\Projects\while\while\bin\Debug\@while.pdb
+c:\users\30719.etecpaof.000\documents\visual studio 2015\Projects\while\while\obj\Debug\@while.exe
+c:\users\30719.etecpaof.000\documents\visual studio 2015\Projects\while\while\obj\Debug\@while.pdb
+C:\Users\30719.ETECPAOF.000\Desktop\while\while\bin\Debug\@while.exe.config
+C:\Users\30719.ETECPAOF.000\Desktop\while\while\obj\Debug\@while.exe
+C:\Users\30719.ETECPAOF.000\Desktop\while\while\obj\Debug\@while.pdb

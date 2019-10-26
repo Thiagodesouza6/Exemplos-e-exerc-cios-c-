@@ -1,0 +1,6 @@
+C:\Users\30719\Desktop\PRESTAÇÃO\PRESTAÇÃO\bin\Debug\PRESTAÇÃO.exe.config
+C:\Users\30719\Desktop\PRESTAÇÃO\PRESTAÇÃO\bin\Debug\PRESTAÇÃO.exe
+C:\Users\30719\Desktop\PRESTAÇÃO\PRESTAÇÃO\bin\Debug\PRESTAÇÃO.pdb
+C:\Users\30719\Desktop\PRESTAÇÃO\PRESTAÇÃO\obj\Debug\PRESTAÇÃO.csprojResolveAssemblyReference.cache
+C:\Users\30719\Desktop\PRESTAÇÃO\PRESTAÇÃO\obj\Debug\PRESTAÇÃO.exe
+C:\Users\30719\Desktop\PRESTAÇÃO\PRESTAÇÃO\obj\Debug\PRESTAÇÃO.pdb

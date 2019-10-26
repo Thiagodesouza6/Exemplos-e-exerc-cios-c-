@@ -1,0 +1,12 @@
+c:\users\30719.etecpaof.000\documents\visual studio 2015\Projects\while2\while2\bin\Debug\while2.exe.config
+c:\users\30719.etecpaof.000\documents\visual studio 2015\Projects\while2\while2\bin\Debug\while2.exe
+c:\users\30719.etecpaof.000\documents\visual studio 2015\Projects\while2\while2\bin\Debug\while2.pdb
+c:\users\30719.etecpaof.000\documents\visual studio 2015\Projects\while2\while2\obj\Debug\while2.csprojResolveAssemblyReference.cache
+c:\users\30719.etecpaof.000\documents\visual studio 2015\Projects\while2\while2\obj\Debug\while2.exe
+c:\users\30719.etecpaof.000\documents\visual studio 2015\Projects\while2\while2\obj\Debug\while2.pdb
+C:\Users\30719.ETECPAOF.000\Desktop\while2\while2\bin\Debug\while2.exe.config
+C:\Users\30719.ETECPAOF.000\Desktop\while2\while2\obj\Debug\while2.exe
+C:\Users\30719.ETECPAOF.000\Desktop\while2\while2\obj\Debug\while2.pdb
+F:\while2\while2\bin\Debug\while2.exe.config
+F:\while2\while2\obj\Debug\while2.exe
+F:\while2\while2\obj\Debug\while2.pdb

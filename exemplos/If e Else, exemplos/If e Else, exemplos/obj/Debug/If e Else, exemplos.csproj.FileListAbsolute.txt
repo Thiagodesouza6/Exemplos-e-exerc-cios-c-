@@ -1,0 +1,6 @@
+C:\Users\30719\Desktop\If e Else, exemplos\If e Else, exemplos\bin\Debug\If e Else, exemplos.exe.config
+C:\Users\30719\Desktop\If e Else, exemplos\If e Else, exemplos\bin\Debug\If e Else, exemplos.exe
+C:\Users\30719\Desktop\If e Else, exemplos\If e Else, exemplos\bin\Debug\If e Else, exemplos.pdb
+C:\Users\30719\Desktop\If e Else, exemplos\If e Else, exemplos\obj\Debug\If e Else, exemplos.csprojResolveAssemblyReference.cache
+C:\Users\30719\Desktop\If e Else, exemplos\If e Else, exemplos\obj\Debug\If e Else, exemplos.exe
+C:\Users\30719\Desktop\If e Else, exemplos\If e Else, exemplos\obj\Debug\If e Else, exemplos.pdb

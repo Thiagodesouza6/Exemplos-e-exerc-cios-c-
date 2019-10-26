@@ -1,0 +1,6 @@
+C:\Users\30719\Desktop\conversão c em f\conversão c em f\bin\Debug\conversão c em f.exe.config
+C:\Users\30719\Desktop\conversão c em f\conversão c em f\obj\Debug\conversão c em f.csprojResolveAssemblyReference.cache
+C:\Users\30719\Desktop\conversão c em f\conversão c em f\bin\Debug\conversão c em f.exe
+C:\Users\30719\Desktop\conversão c em f\conversão c em f\bin\Debug\conversão c em f.pdb
+C:\Users\30719\Desktop\conversão c em f\conversão c em f\obj\Debug\conversão c em f.exe
+C:\Users\30719\Desktop\conversão c em f\conversão c em f\obj\Debug\conversão c em f.pdb

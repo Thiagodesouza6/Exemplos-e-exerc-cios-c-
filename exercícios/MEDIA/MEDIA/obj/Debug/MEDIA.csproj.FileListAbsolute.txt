@@ -1,0 +1,8 @@
+C:\Users\30719\Desktop\MEDIA\MEDIA\bin\Debug\MEDIA.exe.config
+C:\Users\30719\Desktop\MEDIA\MEDIA\bin\Debug\MEDIA.exe
+C:\Users\30719\Desktop\MEDIA\MEDIA\bin\Debug\MEDIA.pdb
+C:\Users\30719\Desktop\MEDIA\MEDIA\obj\Debug\MEDIA.exe
+C:\Users\30719\Desktop\MEDIA\MEDIA\obj\Debug\MEDIA.pdb
+C:\Users\30719\Desktop\programação pronto\MEDIA\MEDIA\bin\Debug\MEDIA.exe.config
+C:\Users\30719\Desktop\programação pronto\MEDIA\MEDIA\obj\Debug\MEDIA.exe
+C:\Users\30719\Desktop\programação pronto\MEDIA\MEDIA\obj\Debug\MEDIA.pdb

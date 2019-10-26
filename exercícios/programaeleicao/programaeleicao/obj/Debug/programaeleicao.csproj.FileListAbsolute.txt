@@ -1,0 +1,9 @@
+C:\Users\30719\Desktop\programaeleicao\programaeleicao\bin\Debug\programaeleicao.exe.config
+C:\Users\30719\Desktop\programaeleicao\programaeleicao\bin\Debug\programaeleicao.exe
+C:\Users\30719\Desktop\programaeleicao\programaeleicao\bin\Debug\programaeleicao.pdb
+C:\Users\30719\Desktop\programaeleicao\programaeleicao\obj\Debug\programaeleicao.csprojResolveAssemblyReference.cache
+C:\Users\30719\Desktop\programaeleicao\programaeleicao\obj\Debug\programaeleicao.exe
+C:\Users\30719\Desktop\programaeleicao\programaeleicao\obj\Debug\programaeleicao.pdb
+C:\Users\30719\Desktop\programação pronto\programaeleicao\programaeleicao\bin\Debug\programaeleicao.exe.config
+C:\Users\30719\Desktop\programação pronto\programaeleicao\programaeleicao\obj\Debug\programaeleicao.exe
+C:\Users\30719\Desktop\programação pronto\programaeleicao\programaeleicao\obj\Debug\programaeleicao.pdb

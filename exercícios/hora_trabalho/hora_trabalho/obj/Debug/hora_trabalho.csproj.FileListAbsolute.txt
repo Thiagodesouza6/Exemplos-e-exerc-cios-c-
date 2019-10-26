@@ -1,0 +1,5 @@
+C:\Users\30719\Desktop\hora_trabalho\hora_trabalho\bin\Debug\hora_trabalho.exe.config
+C:\Users\30719\Desktop\hora_trabalho\hora_trabalho\bin\Debug\hora_trabalho.exe
+C:\Users\30719\Desktop\hora_trabalho\hora_trabalho\bin\Debug\hora_trabalho.pdb
+C:\Users\30719\Desktop\hora_trabalho\hora_trabalho\obj\Debug\hora_trabalho.exe
+C:\Users\30719\Desktop\hora_trabalho\hora_trabalho\obj\Debug\hora_trabalho.pdb

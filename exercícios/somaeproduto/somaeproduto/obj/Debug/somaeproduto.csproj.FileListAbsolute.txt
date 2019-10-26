@@ -1,0 +1,8 @@
+C:\Users\30719\Desktop\somaeproduto\somaeproduto\bin\Debug\somaeproduto.exe.config
+C:\Users\30719\Desktop\somaeproduto\somaeproduto\bin\Debug\somaeproduto.exe
+C:\Users\30719\Desktop\somaeproduto\somaeproduto\bin\Debug\somaeproduto.pdb
+C:\Users\30719\Desktop\somaeproduto\somaeproduto\obj\Debug\somaeproduto.exe
+C:\Users\30719\Desktop\somaeproduto\somaeproduto\obj\Debug\somaeproduto.pdb
+C:\Users\30719\Desktop\programação pronto\somaeproduto\somaeproduto\bin\Debug\somaeproduto.exe.config
+C:\Users\30719\Desktop\programação pronto\somaeproduto\somaeproduto\obj\Debug\somaeproduto.exe
+C:\Users\30719\Desktop\programação pronto\somaeproduto\somaeproduto\obj\Debug\somaeproduto.pdb

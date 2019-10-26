@@ -1,0 +1,6 @@
+C:\Users\30719\Desktop\eeou\eeou\bin\Debug\eeou.exe.config
+C:\Users\30719\Desktop\eeou\eeou\bin\Debug\eeou.exe
+C:\Users\30719\Desktop\eeou\eeou\bin\Debug\eeou.pdb
+C:\Users\30719\Desktop\eeou\eeou\obj\Debug\eeou.csprojResolveAssemblyReference.cache
+C:\Users\30719\Desktop\eeou\eeou\obj\Debug\eeou.exe
+C:\Users\30719\Desktop\eeou\eeou\obj\Debug\eeou.pdb

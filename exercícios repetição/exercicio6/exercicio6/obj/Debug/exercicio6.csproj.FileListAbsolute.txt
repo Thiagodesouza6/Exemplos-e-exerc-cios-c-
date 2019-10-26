@@ -1,0 +1,14 @@
+C:\Users\30719.ETECPAOF.000\Desktop\exercicio6\exercicio6\bin\Debug\exercicio6.exe.config
+C:\Users\30719.ETECPAOF.000\Desktop\exercicio6\exercicio6\bin\Debug\exercicio6.exe
+C:\Users\30719.ETECPAOF.000\Desktop\exercicio6\exercicio6\bin\Debug\exercicio6.pdb
+C:\Users\30719.ETECPAOF.000\Desktop\exercicio6\exercicio6\obj\Debug\exercicio6.exe
+C:\Users\30719.ETECPAOF.000\Desktop\exercicio6\exercicio6\obj\Debug\exercicio6.pdb
+F:\exercicio6\exercicio6\bin\Debug\exercicio6.exe.config
+F:\exercicio6\exercicio6\obj\Debug\exercicio6.exe
+F:\exercicio6\exercicio6\obj\Debug\exercicio6.pdb
+F:\exercicio6\exercicio6\bin\Debug\exercicio6.exe
+F:\exercicio6\exercicio6\bin\Debug\exercicio6.pdb
+F:\exercicio6\exercicio6\obj\Debug\exercicio6.csprojResolveAssemblyReference.cache
+F:\--\c#\exercicio6\exercicio6\bin\Debug\exercicio6.exe.config
+F:\--\c#\exercicio6\exercicio6\obj\Debug\exercicio6.exe
+F:\--\c#\exercicio6\exercicio6\obj\Debug\exercicio6.pdb

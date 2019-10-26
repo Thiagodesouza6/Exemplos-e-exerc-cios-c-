@@ -1,0 +1,9 @@
+C:\Users\30719.ETECPAOF.000\Desktop\exercicio2\exercicio2\bin\Debug\exercicio2.exe.config
+C:\Users\30719.ETECPAOF.000\Desktop\exercicio2\exercicio2\bin\Debug\exercicio2.exe
+C:\Users\30719.ETECPAOF.000\Desktop\exercicio2\exercicio2\bin\Debug\exercicio2.pdb
+C:\Users\30719.ETECPAOF.000\Desktop\exercicio2\exercicio2\obj\Debug\exercicio2.exe
+C:\Users\30719.ETECPAOF.000\Desktop\exercicio2\exercicio2\obj\Debug\exercicio2.pdb
+C:\Users\30719.ETECPAOF.000\Desktop\exercicio2\exercicio2\obj\Debug\exercicio2.csprojResolveAssemblyReference.cache
+F:\exercicio2\exercicio2\bin\Debug\exercicio2.exe.config
+F:\exercicio2\exercicio2\obj\Debug\exercicio2.exe
+F:\exercicio2\exercicio2\obj\Debug\exercicio2.pdb

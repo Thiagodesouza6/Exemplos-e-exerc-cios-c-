@@ -1,0 +1,5 @@
+C:\Users\30719.ETECPAOF.000\Desktop\for3\for3\bin\Debug\for3.exe.config
+C:\Users\30719.ETECPAOF.000\Desktop\for3\for3\bin\Debug\for3.exe
+C:\Users\30719.ETECPAOF.000\Desktop\for3\for3\bin\Debug\for3.pdb
+C:\Users\30719.ETECPAOF.000\Desktop\for3\for3\obj\Debug\for3.exe
+C:\Users\30719.ETECPAOF.000\Desktop\for3\for3\obj\Debug\for3.pdb

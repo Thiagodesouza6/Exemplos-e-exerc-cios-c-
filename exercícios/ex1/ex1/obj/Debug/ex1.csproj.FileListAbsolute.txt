@@ -1,0 +1,12 @@
+c:\users\30719.etecpaof.000\documents\visual studio 2015\Projects\ex1\ex1\bin\Debug\ex1.exe.config
+c:\users\30719.etecpaof.000\documents\visual studio 2015\Projects\ex1\ex1\bin\Debug\ex1.exe
+c:\users\30719.etecpaof.000\documents\visual studio 2015\Projects\ex1\ex1\bin\Debug\ex1.pdb
+c:\users\30719.etecpaof.000\documents\visual studio 2015\Projects\ex1\ex1\obj\Debug\ex1.csprojResolveAssemblyReference.cache
+c:\users\30719.etecpaof.000\documents\visual studio 2015\Projects\ex1\ex1\obj\Debug\ex1.exe
+c:\users\30719.etecpaof.000\documents\visual studio 2015\Projects\ex1\ex1\obj\Debug\ex1.pdb
+C:\Users\30719.ETECPAOF.000\Desktop\ex1\ex1\bin\Debug\ex1.exe.config
+C:\Users\30719.ETECPAOF.000\Desktop\ex1\ex1\obj\Debug\ex1.exe
+C:\Users\30719.ETECPAOF.000\Desktop\ex1\ex1\obj\Debug\ex1.pdb
+C:\Users\30719.ETECPAOF.000\Desktop\ex1\ex1\bin\Debug\ex1.exe
+C:\Users\30719.ETECPAOF.000\Desktop\ex1\ex1\bin\Debug\ex1.pdb
+C:\Users\30719.ETECPAOF.000\Desktop\ex1\ex1\obj\Debug\ex1.csprojResolveAssemblyReference.cache

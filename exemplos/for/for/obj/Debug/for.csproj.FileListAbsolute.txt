@@ -1,0 +1,6 @@
+c:\users\30719.etecpaof.000\documents\visual studio 2015\Projects\for\for\bin\Debug\@for.exe.config
+c:\users\30719.etecpaof.000\documents\visual studio 2015\Projects\for\for\bin\Debug\@for.exe
+c:\users\30719.etecpaof.000\documents\visual studio 2015\Projects\for\for\bin\Debug\@for.pdb
+c:\users\30719.etecpaof.000\documents\visual studio 2015\Projects\for\for\obj\Debug\for.csprojResolveAssemblyReference.cache
+c:\users\30719.etecpaof.000\documents\visual studio 2015\Projects\for\for\obj\Debug\@for.exe
+c:\users\30719.etecpaof.000\documents\visual studio 2015\Projects\for\for\obj\Debug\@for.pdb

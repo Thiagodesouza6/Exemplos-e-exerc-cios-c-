@@ -1,0 +1,6 @@
+C:\Users\30719\Desktop\quadradodonumero\quadradodonumero\bin\Debug\quadradodonumero.exe.config
+C:\Users\30719\Desktop\quadradodonumero\quadradodonumero\bin\Debug\quadradodonumero.exe
+C:\Users\30719\Desktop\quadradodonumero\quadradodonumero\bin\Debug\quadradodonumero.pdb
+C:\Users\30719\Desktop\quadradodonumero\quadradodonumero\obj\Debug\quadradodonumero.csprojResolveAssemblyReference.cache
+C:\Users\30719\Desktop\quadradodonumero\quadradodonumero\obj\Debug\quadradodonumero.exe
+C:\Users\30719\Desktop\quadradodonumero\quadradodonumero\obj\Debug\quadradodonumero.pdb

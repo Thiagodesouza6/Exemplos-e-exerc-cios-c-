@@ -1,0 +1,2 @@
+C:\Users\30719\Desktop\ex7idadehomensmulheres\ex7idadehomensmulheres\bin\Debug\ex7idadehomensmulheres.exe.config
+C:\Users\30719\Desktop\ex7idadehomensmulheres\ex7idadehomensmulheres\obj\Debug\ex7idadehomensmulheres.csprojResolveAssemblyReference.cache

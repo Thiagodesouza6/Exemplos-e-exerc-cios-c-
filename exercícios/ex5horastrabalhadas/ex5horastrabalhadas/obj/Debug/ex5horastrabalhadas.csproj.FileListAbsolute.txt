@@ -1,0 +1,5 @@
+C:\Users\30719\Desktop\ex5horastrabalhadas\ex5horastrabalhadas\bin\Debug\ex5horastrabalhadas.exe.config
+C:\Users\30719\Desktop\ex5horastrabalhadas\ex5horastrabalhadas\bin\Debug\ex5horastrabalhadas.exe
+C:\Users\30719\Desktop\ex5horastrabalhadas\ex5horastrabalhadas\bin\Debug\ex5horastrabalhadas.pdb
+C:\Users\30719\Desktop\ex5horastrabalhadas\ex5horastrabalhadas\obj\Debug\ex5horastrabalhadas.exe
+C:\Users\30719\Desktop\ex5horastrabalhadas\ex5horastrabalhadas\obj\Debug\ex5horastrabalhadas.pdb

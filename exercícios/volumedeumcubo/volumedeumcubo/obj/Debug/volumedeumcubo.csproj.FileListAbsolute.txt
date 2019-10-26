@@ -1,0 +1,8 @@
+C:\Users\30719\Desktop\volumedeumcubo\volumedeumcubo\bin\Debug\volumedeumcubo.exe.config
+C:\Users\30719\Desktop\volumedeumcubo\volumedeumcubo\bin\Debug\volumedeumcubo.exe
+C:\Users\30719\Desktop\volumedeumcubo\volumedeumcubo\bin\Debug\volumedeumcubo.pdb
+C:\Users\30719\Desktop\volumedeumcubo\volumedeumcubo\obj\Debug\volumedeumcubo.exe
+C:\Users\30719\Desktop\volumedeumcubo\volumedeumcubo\obj\Debug\volumedeumcubo.pdb
+C:\Users\30719\Desktop\programação pronto\volumedeumcubo\volumedeumcubo\bin\Debug\volumedeumcubo.exe.config
+C:\Users\30719\Desktop\programação pronto\volumedeumcubo\volumedeumcubo\obj\Debug\volumedeumcubo.exe
+C:\Users\30719\Desktop\programação pronto\volumedeumcubo\volumedeumcubo\obj\Debug\volumedeumcubo.pdb

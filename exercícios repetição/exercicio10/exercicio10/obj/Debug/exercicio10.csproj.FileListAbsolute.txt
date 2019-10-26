@@ -1,0 +1,8 @@
+c:\users\34892\documents\visual studio 2015\Projects\exercicio10\exercicio10\bin\Debug\exercicio10.exe.config
+c:\users\34892\documents\visual studio 2015\Projects\exercicio10\exercicio10\bin\Debug\exercicio10.exe
+c:\users\34892\documents\visual studio 2015\Projects\exercicio10\exercicio10\bin\Debug\exercicio10.pdb
+c:\users\34892\documents\visual studio 2015\Projects\exercicio10\exercicio10\obj\Debug\exercicio10.exe
+c:\users\34892\documents\visual studio 2015\Projects\exercicio10\exercicio10\obj\Debug\exercicio10.pdb
+F:\--\c#\exercicio10\exercicio10\bin\Debug\exercicio10.exe.config
+F:\--\c#\exercicio10\exercicio10\obj\Debug\exercicio10.exe
+F:\--\c#\exercicio10\exercicio10\obj\Debug\exercicio10.pdb

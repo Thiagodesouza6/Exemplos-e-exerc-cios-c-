@@ -1,0 +1,8 @@
+C:\Users\30719\Desktop\potencia\potencia\bin\Debug\potencia.exe.config
+C:\Users\30719\Desktop\potencia\potencia\bin\Debug\potencia.exe
+C:\Users\30719\Desktop\potencia\potencia\bin\Debug\potencia.pdb
+C:\Users\30719\Desktop\potencia\potencia\obj\Debug\potencia.exe
+C:\Users\30719\Desktop\potencia\potencia\obj\Debug\potencia.pdb
+C:\Users\30719\Desktop\programação pronto\potencia\potencia\bin\Debug\potencia.exe.config
+C:\Users\30719\Desktop\programação pronto\potencia\potencia\obj\Debug\potencia.exe
+C:\Users\30719\Desktop\programação pronto\potencia\potencia\obj\Debug\potencia.pdb

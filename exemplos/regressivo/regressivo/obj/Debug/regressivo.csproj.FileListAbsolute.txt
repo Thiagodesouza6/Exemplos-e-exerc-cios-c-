@@ -1,0 +1,8 @@
+c:\users\30719.etecpaof.000\documents\visual studio 2015\Projects\regressivo\regressivo\bin\Debug\regressivo.exe.config
+c:\users\30719.etecpaof.000\documents\visual studio 2015\Projects\regressivo\regressivo\bin\Debug\regressivo.exe
+c:\users\30719.etecpaof.000\documents\visual studio 2015\Projects\regressivo\regressivo\bin\Debug\regressivo.pdb
+c:\users\30719.etecpaof.000\documents\visual studio 2015\Projects\regressivo\regressivo\obj\Debug\regressivo.exe
+c:\users\30719.etecpaof.000\documents\visual studio 2015\Projects\regressivo\regressivo\obj\Debug\regressivo.pdb
+F:\regressivo\regressivo\bin\Debug\regressivo.exe.config
+F:\regressivo\regressivo\obj\Debug\regressivo.exe
+F:\regressivo\regressivo\obj\Debug\regressivo.pdb

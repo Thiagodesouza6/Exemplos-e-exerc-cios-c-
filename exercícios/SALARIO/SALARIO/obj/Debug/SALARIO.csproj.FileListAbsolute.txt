@@ -1,0 +1,5 @@
+C:\Users\30719\Desktop\SALARIO\SALARIO\bin\Debug\SALARIO.exe.config
+C:\Users\30719\Desktop\SALARIO\SALARIO\bin\Debug\SALARIO.exe
+C:\Users\30719\Desktop\SALARIO\SALARIO\bin\Debug\SALARIO.pdb
+C:\Users\30719\Desktop\SALARIO\SALARIO\obj\Debug\SALARIO.exe
+C:\Users\30719\Desktop\SALARIO\SALARIO\obj\Debug\SALARIO.pdb

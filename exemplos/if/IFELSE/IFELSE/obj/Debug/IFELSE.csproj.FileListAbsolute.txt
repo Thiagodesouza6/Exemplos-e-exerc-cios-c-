@@ -1,0 +1,6 @@
+C:\Users\30719\Desktop\IFELSE\IFELSE\bin\Debug\IFELSE.exe.config
+C:\Users\30719\Desktop\IFELSE\IFELSE\bin\Debug\IFELSE.exe
+C:\Users\30719\Desktop\IFELSE\IFELSE\bin\Debug\IFELSE.pdb
+C:\Users\30719\Desktop\IFELSE\IFELSE\obj\Debug\IFELSE.csprojResolveAssemblyReference.cache
+C:\Users\30719\Desktop\IFELSE\IFELSE\obj\Debug\IFELSE.exe
+C:\Users\30719\Desktop\IFELSE\IFELSE\obj\Debug\IFELSE.pdb

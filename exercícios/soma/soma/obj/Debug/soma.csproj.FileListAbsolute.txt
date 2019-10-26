@@ -1,0 +1,6 @@
+C:\Users\30719\Desktop\soma\soma\bin\Debug\soma.exe.config
+C:\Users\30719\Desktop\soma\soma\bin\Debug\soma.exe
+C:\Users\30719\Desktop\soma\soma\bin\Debug\soma.pdb
+C:\Users\30719\Desktop\soma\soma\obj\Debug\soma.csprojResolveAssemblyReference.cache
+C:\Users\30719\Desktop\soma\soma\obj\Debug\soma.exe
+C:\Users\30719\Desktop\soma\soma\obj\Debug\soma.pdb

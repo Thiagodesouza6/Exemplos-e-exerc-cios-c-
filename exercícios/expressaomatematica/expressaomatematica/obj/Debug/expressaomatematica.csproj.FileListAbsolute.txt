@@ -1,0 +1,5 @@
+C:\Users\30719\Desktop\expressaomatematica\expressaomatematica\bin\Debug\expressaomatematica.exe.config
+C:\Users\30719\Desktop\expressaomatematica\expressaomatematica\bin\Debug\expressaomatematica.exe
+C:\Users\30719\Desktop\expressaomatematica\expressaomatematica\bin\Debug\expressaomatematica.pdb
+C:\Users\30719\Desktop\expressaomatematica\expressaomatematica\obj\Debug\expressaomatematica.exe
+C:\Users\30719\Desktop\expressaomatematica\expressaomatematica\obj\Debug\expressaomatematica.pdb

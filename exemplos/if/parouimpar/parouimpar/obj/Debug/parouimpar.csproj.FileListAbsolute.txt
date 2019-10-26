@@ -1,0 +1,5 @@
+C:\Users\30719\Desktop\parouimpar\parouimpar\bin\Debug\parouimpar.exe.config
+C:\Users\30719\Desktop\parouimpar\parouimpar\bin\Debug\parouimpar.exe
+C:\Users\30719\Desktop\parouimpar\parouimpar\bin\Debug\parouimpar.pdb
+C:\Users\30719\Desktop\parouimpar\parouimpar\obj\Debug\parouimpar.exe
+C:\Users\30719\Desktop\parouimpar\parouimpar\obj\Debug\parouimpar.pdb
