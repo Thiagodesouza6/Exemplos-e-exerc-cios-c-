@@ -15,7 +15,7 @@ namespace exemplo1
             //inserindo valores no vetor
             for(i=0; i<5; i++)
             {
-                Console.Write("Digite o[{0º}] número: ");
+                Console.Write("Digite o[{0}º] número: ",i);
                 vetor[i] = int.Parse(Console.ReadLine());
             }
             //mostrando os valores do vetor
