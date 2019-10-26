@@ -24,7 +24,7 @@ namespace exemplo1
             {
                 //os valores são referenciados na memoria ram
                 //como sendo {0} a valor de i e {1} p vaçpr de vetor[i]
-                Console.WriteLine("[{0º}]= {1}", i, vetor[i]);
+                Console.WriteLine("[{0}º]= {1}", i, vetor[i]);
             }
             //finaliza
             Console.ReadKey();
