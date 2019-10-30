@@ -6,3 +6,8 @@ c:\users\30719.etecpaof.000\documents\visual studio 2015\Projects\regressivo\reg
 F:\regressivo\regressivo\bin\Debug\regressivo.exe.config
 F:\regressivo\regressivo\obj\Debug\regressivo.exe
 F:\regressivo\regressivo\obj\Debug\regressivo.pdb
+F:\--\Exemplos e exercícios c#\Exemplos-e-exerc-cios-c-\exemplos\regressivo\regressivo\bin\Debug\regressivo.exe.config
+F:\--\Exemplos e exercícios c#\Exemplos-e-exerc-cios-c-\exemplos\regressivo\regressivo\obj\Debug\regressivo.exe
+F:\--\Exemplos e exercícios c#\Exemplos-e-exerc-cios-c-\exemplos\regressivo\regressivo\obj\Debug\regressivo.pdb
+F:\--\Exemplos e exercícios c#\Exemplos-e-exerc-cios-c-\exemplos\regressivo\regressivo\bin\Debug\regressivo.exe
+F:\--\Exemplos e exercícios c#\Exemplos-e-exerc-cios-c-\exemplos\regressivo\regressivo\bin\Debug\regressivo.pdb
