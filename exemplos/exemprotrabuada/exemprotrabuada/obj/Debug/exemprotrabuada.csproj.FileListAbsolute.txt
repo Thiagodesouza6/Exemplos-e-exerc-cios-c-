@@ -4,3 +4,6 @@ C:\Users\30719.ETECPAOF.000\Desktop\exemprotrabuada\exemprotrabuada\bin\Debug\ex
 C:\Users\30719.ETECPAOF.000\Desktop\exemprotrabuada\exemprotrabuada\obj\Debug\exemprotrabuada.csprojResolveAssemblyReference.cache
 C:\Users\30719.ETECPAOF.000\Desktop\exemprotrabuada\exemprotrabuada\obj\Debug\exemprotrabuada.exe
 C:\Users\30719.ETECPAOF.000\Desktop\exemprotrabuada\exemprotrabuada\obj\Debug\exemprotrabuada.pdb
+F:\--\Exemplos e exercícios c#\Exemplos-e-exerc-cios-c-\exemplos\exemprotrabuada\exemprotrabuada\bin\Debug\exemprotrabuada.exe.config
+F:\--\Exemplos e exercícios c#\Exemplos-e-exerc-cios-c-\exemplos\exemprotrabuada\exemprotrabuada\obj\Debug\exemprotrabuada.exe
+F:\--\Exemplos e exercícios c#\Exemplos-e-exerc-cios-c-\exemplos\exemprotrabuada\exemprotrabuada\obj\Debug\exemprotrabuada.pdb
