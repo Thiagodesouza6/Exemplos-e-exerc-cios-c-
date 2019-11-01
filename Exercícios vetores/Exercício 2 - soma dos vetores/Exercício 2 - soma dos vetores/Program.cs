@@ -10,14 +10,14 @@ namespace Exercício_2___soma_dos_vetores
     {
         static void Main(string[] args)
         {
-            int[] vetor = new int[9];
+            int[] vetor = new int[5];
 
             int i, soma = 0;
             for (i = 0; i < vetor.Length; i++)
             {
                 Console.Write("Digite um número: ");
                 vetor[i] = int.Parse(Console.ReadLine());
-                soma = vetor[i++]+soma;
+                soma = vetor[i]+soma;
             }
 
             Console.WriteLine("\nA soma é: "+soma);
