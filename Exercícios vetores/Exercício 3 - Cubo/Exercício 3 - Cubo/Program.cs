@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Exemplo_6___Ao_cubo
+namespace Exercício_3___Cubo
 {
     class Program
     {
@@ -13,11 +13,11 @@ namespace Exemplo_6___Ao_cubo
             double[] vetor = new double[6];
             double[] cubo = new double[6];
             int i;
-           
+
 
             for (i = 1; i < vetor.Length; i++)
             {
-                Console.Write("Digite o {0}º número: ",i);
+                Console.Write("Digite o {0}º número: ", i);
                 vetor[i] = int.Parse(Console.ReadLine());
 
             }
@@ -26,7 +26,7 @@ namespace Exemplo_6___Ao_cubo
             Console.WriteLine("impressão do vetor: ");
             for (i = 1; i < vetor.Length; i++)
             {
-                cubo[i] = Math.Pow(vetor[i],  3) ;
+                cubo[i] = Math.Pow(vetor[i], 3);
 
                 Console.WriteLine("{0}º: {1} ", i, cubo[i]);
 

@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E7DA783B-F3FE-43BA-8394-9E38D64C17CB}</ProjectGuid>
+    <ProjectGuid>{A024F2ED-C032-40A5-BC5B-20302B0C63C9}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Exemplo_6___Ao_cubo</RootNamespace>
-    <AssemblyName>Exemplo 6 - Ao cubo</AssemblyName>
+    <RootNamespace>Exercício_1___idade</RootNamespace>
+    <AssemblyName>Exercício 1 - idade</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
