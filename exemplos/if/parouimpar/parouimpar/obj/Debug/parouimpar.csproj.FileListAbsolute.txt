@@ -3,3 +3,6 @@ C:\Users\30719\Desktop\parouimpar\parouimpar\bin\Debug\parouimpar.exe
 C:\Users\30719\Desktop\parouimpar\parouimpar\bin\Debug\parouimpar.pdb
 C:\Users\30719\Desktop\parouimpar\parouimpar\obj\Debug\parouimpar.exe
 C:\Users\30719\Desktop\parouimpar\parouimpar\obj\Debug\parouimpar.pdb
+F:\--\Exemplos e exercícios c#\Exemplos-e-exerc-cios-c-\exemplos\if\parouimpar\parouimpar\bin\Debug\parouimpar.exe.config
+F:\--\Exemplos e exercícios c#\Exemplos-e-exerc-cios-c-\exemplos\if\parouimpar\parouimpar\obj\Debug\parouimpar.exe
+F:\--\Exemplos e exercícios c#\Exemplos-e-exerc-cios-c-\exemplos\if\parouimpar\parouimpar\obj\Debug\parouimpar.pdb
