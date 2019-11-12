@@ -1,1 +1,2 @@
 C:\Users\30719.ETECPAOF.000\Desktop\exercicio7\exercicio7\bin\Debug\exercicio7.exe.config
+F:\--\Exemplos e exercícios c#\Exemplos-e-exerc-cios-c-\exercícios repetição\exercicio7\exercicio7\bin\Debug\exercicio7.exe.config

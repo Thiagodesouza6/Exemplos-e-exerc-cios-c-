@@ -6,3 +6,6 @@ c:\users\34892\documents\visual studio 2015\Projects\exercicio10\exercicio10\obj
 F:\--\c#\exercicio10\exercicio10\bin\Debug\exercicio10.exe.config
 F:\--\c#\exercicio10\exercicio10\obj\Debug\exercicio10.exe
 F:\--\c#\exercicio10\exercicio10\obj\Debug\exercicio10.pdb
+F:\--\Exemplos e exercícios c#\Exemplos-e-exerc-cios-c-\exercícios repetição\exercicio10\exercicio10\bin\Debug\exercicio10.exe.config
+F:\--\Exemplos e exercícios c#\Exemplos-e-exerc-cios-c-\exercícios repetição\exercicio10\exercicio10\obj\Debug\exercicio10.exe
+F:\--\Exemplos e exercícios c#\Exemplos-e-exerc-cios-c-\exercícios repetição\exercicio10\exercicio10\obj\Debug\exercicio10.pdb

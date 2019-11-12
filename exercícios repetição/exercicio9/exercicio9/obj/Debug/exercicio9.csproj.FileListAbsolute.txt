@@ -16,3 +16,6 @@ F:\--\c#\exercicio9\exercicio9\obj\Debug\exercicio9.pdb
 F:\--\c#\exercicio9\exercicio9\bin\Debug\exercicio9.exe
 F:\--\c#\exercicio9\exercicio9\bin\Debug\exercicio9.pdb
 F:\--\c#\exercicio9\exercicio9\obj\Debug\exercicio9.csprojResolveAssemblyReference.cache
+F:\--\Exemplos e exercícios c#\Exemplos-e-exerc-cios-c-\exercícios repetição\exercicio9\exercicio9\bin\Debug\exercicio9.exe.config
+F:\--\Exemplos e exercícios c#\Exemplos-e-exerc-cios-c-\exercícios repetição\exercicio9\exercicio9\obj\Debug\exercicio9.exe
+F:\--\Exemplos e exercícios c#\Exemplos-e-exerc-cios-c-\exercícios repetição\exercicio9\exercicio9\obj\Debug\exercicio9.pdb
