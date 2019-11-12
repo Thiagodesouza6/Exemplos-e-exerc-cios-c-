@@ -18,7 +18,7 @@ namespace Exercício_7___Altura
 
             for (i = 1; i < homem.Length; i++)
             {
-                Console.Write("Digite a {0}º idade: ", i);
+                Console.Write("Digite a {0}º idade do homem: ", i);
                 homem[i] = int.Parse(Console.ReadLine());
                 soma = homem[i] + soma;
                 if (homem[i] > baixo)
@@ -33,7 +33,7 @@ namespace Exercício_7___Altura
             }
             for (i = 1; i < homem.Length; i++)
             {
-                Console.Write("\nDigite a {0}º idade: ", i);
+                Console.Write("\nDigite a {0}º idade da mulher: ", i);
                 mulher[i] = int.Parse(Console.ReadLine());
               
                 if (mulher[i]>alta)
