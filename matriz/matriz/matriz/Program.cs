@@ -10,35 +10,55 @@ namespace matriz
     {
         static void Main(string[] args)
         {
-            const int LIN = 3, COL = 3;
-            int[,] matriz = new int[LIN, COL];
+           
+            int[,] matriz = new int[3, 3];
+            int[,] matriz2 = new int[3, 3];
+            int[,] matriz3 = new int[3, 3];
             int l, c;
-            for (l = 0; l < LIN; l++)
+            Console.WriteLine("\n Informe os valores da primeira matriz: \n");
+            for (l = 0; l < 3; l++)
             {
-                for (c = 0; c < COL; c++)
+                for (c = 0; c < 3; c++)
                 {
-                    Console.Write("Digite um número: ");
+                    Console.Write("Digite o valor {0}X{1}: ",l + 1, c + 1);
                     matriz[l, c] = int.Parse(Console.ReadLine());
                 }
             }
-            Console.WriteLine("\n Matriz Completa: \n");
-            for (l = 0; l < LIN; l++)
+            Console.WriteLine("\n Informe os valores da segunda matriz: \n");
+            for (l = 0; l < 3; l++)
             {
-                for (c = 0; c < COL; c++)
+                for (c = 0; c < 3; c++)
                 {
-                    Console.Write(" {0} ", matriz[l, c]);
+                    Console.Write("Digite o valor {0}X{1}: ", l + 1, c + 1);
+                    matriz2[l, c] = int.Parse(Console.ReadLine());
+                }
+            }
+            Console.WriteLine("\n Matriz 1: \n");
+            for (l = 0; l < 3; l++)
+            {
+                for (c = 0; c < 3; c++)
+                {
+                    Console.Write(" {0}X{1}: {2} ",l+1,c+1, matriz[l, c]);
                 }
                 Console.WriteLine();
             }
-            Console.WriteLine("\n Matriz com Números Pares: \n");
-            for (l = 0; l < LIN; l++)
+            Console.WriteLine("\n Matriz 2: \n");
+            for (l = 0; l < 3; l++)
             {
-                for (c = 0; c < COL; c++)
+                for (c = 0; c < 3; c++)
                 {
-                    if (matriz[l, c] % 2 == 0)
-                        Console.Write(" {0} ", matriz[l, c]);
-                    else
-                        Console.Write(" ");
+                    Console.Write(" {0}X{1}: {2} ", l + 1, c + 1, matriz2[l, c]);
+                }
+                Console.WriteLine();
+            }
+            Console.WriteLine("\n Soma das matrizes: \n");
+            for (l = 0; l < 3; l++)
+            {
+                for (c = 0; c < 3; c++)
+                {
+                    matriz3[l, c] = matriz[l, c] + matriz2[l, c];
+                        Console.Write(" {0}X{1}: {2} ", l + 1, c + 1,  matriz3[l, c]);
+                  
                 }
                 Console.WriteLine();
             }

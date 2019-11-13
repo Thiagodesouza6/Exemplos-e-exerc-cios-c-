@@ -13,7 +13,7 @@ namespace Exercício_7___Altura
             int[] homem = new int[6];
             int[] mulher = new int[6];
             int i;
-            int alta = 0,vetor=0,media,soma=0, soma2 = 0,baixo=0;
+            int alta = 0,vetor=0,media,soma=0, soma2 = 0,baixo=0, baixo0 = 0, baixo1 = 0;
 
 
             for (i = 1; i < homem.Length; i++)
@@ -29,7 +29,12 @@ namespace Exercício_7___Altura
                 {
                     vetor = i;
                 }
+                if (vetor < homem[i])
+                { 
+                    baixo0 = i;
+                }
                 
+
             }
             for (i = 1; i < homem.Length; i++)
             {
@@ -42,11 +47,19 @@ namespace Exercício_7___Altura
                 }
                 soma2 = mulher[i] + soma2;
             }
+            if (baixo0 < vetor)
+            {
+                baixo1 = baixo0;
+            }
+            else
+            {
+                baixo1 = vetor;
+            }
 
             media = (soma + soma2) / 10;
 
             Console.WriteLine("\n media: {0}  ", media);
-            Console.WriteLine("\n vetor do homem mais baixo: {0}  ", vetor);
+            Console.WriteLine("\n vetor do homem mais baixo: {0}  ", baixo1);
             Console.WriteLine("\n mulher mais alta: {0}  ", alta);
 
             Console.ReadKey();
