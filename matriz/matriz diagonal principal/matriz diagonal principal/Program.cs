@@ -11,7 +11,6 @@ namespace matriz_diagonal_principal
         static void Main(string[] args)
         {
             int[,] matriz = new int[3, 3];
-            int[,] matriz1 = new int[3, 3];
             int l, c;
             Console.WriteLine("\n Informe os valores da  matriz: \n");
             for (l = 0; l < 3; l++)
@@ -30,8 +29,8 @@ namespace matriz_diagonal_principal
                 {
                     if (c == l)
                     {
-                        matriz1[l, c] = matriz[l, c];
-                        Console.Write(" {0}X{1}: {2} ", l + 1, c + 1, matriz1[l, c]);
+                        
+                        Console.Write(" {0}X{1}: {2} ", l + 1, c + 1, matriz[l, c]);
                     }
                    
                 }
