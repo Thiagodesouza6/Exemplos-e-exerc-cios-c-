@@ -11,21 +11,19 @@ namespace Exercício_2___soma_dos_vetores
         static void Main(string[] args)
         {
             
-            int i,n;
-            Console.Write("informe o valor do vetor: ");
-            n = int.Parse(Console.ReadLine());
-            int[] vetor = new int[n];
+            int i,soma=0;
+       
+            int[] vetor = new int[5];
             Console.Write("\n");
             for (i = 0; i < vetor.Length; i++)
             {
                 Console.Write("Digite um número: ");
                 vetor[i] = int.Parse(Console.ReadLine());
-               
+                soma = vetor[i] + soma;
             }
-            for (i = 0; i < vetor.Length; i++)
-            {
-                Console.WriteLine("vetor:" + vetor[i]);
-            }
+            
+                Console.WriteLine("vetor:" + soma);
+          
             
 
 

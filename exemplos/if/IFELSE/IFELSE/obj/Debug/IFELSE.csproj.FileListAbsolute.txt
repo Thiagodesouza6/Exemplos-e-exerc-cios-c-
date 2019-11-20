@@ -4,3 +4,6 @@ C:\Users\30719\Desktop\IFELSE\IFELSE\bin\Debug\IFELSE.pdb
 C:\Users\30719\Desktop\IFELSE\IFELSE\obj\Debug\IFELSE.csprojResolveAssemblyReference.cache
 C:\Users\30719\Desktop\IFELSE\IFELSE\obj\Debug\IFELSE.exe
 C:\Users\30719\Desktop\IFELSE\IFELSE\obj\Debug\IFELSE.pdb
+F:\--\Exemplos e exercícios c#\Exemplos-e-exerc-cios-c-\exemplos\if\IFELSE\IFELSE\bin\Debug\IFELSE.exe.config
+F:\--\Exemplos e exercícios c#\Exemplos-e-exerc-cios-c-\exemplos\if\IFELSE\IFELSE\obj\Debug\IFELSE.exe
+F:\--\Exemplos e exercícios c#\Exemplos-e-exerc-cios-c-\exemplos\if\IFELSE\IFELSE\obj\Debug\IFELSE.pdb
