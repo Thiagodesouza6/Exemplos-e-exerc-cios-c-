@@ -4,14 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Exercício_2___soma_dos_vetores
+namespace exercicio4___vetor_numero
 {
     class Program
     {
         static void Main(string[] args)
         {
-            
-            int i,n;
+            int i, n;
             Console.Write("informe o valor do vetor: ");
             n = int.Parse(Console.ReadLine());
             int[] vetor = new int[n];
@@ -20,14 +19,12 @@ namespace Exercício_2___soma_dos_vetores
             {
                 Console.Write("Digite um número: ");
                 vetor[i] = int.Parse(Console.ReadLine());
-               
+
             }
             for (i = 0; i < vetor.Length; i++)
             {
                 Console.WriteLine("vetor:" + vetor[i]);
             }
-            
-
 
             Console.ReadKey();
         }

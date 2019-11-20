@@ -29,7 +29,6 @@ namespace matriz_diagonal_principal
                 {
                     if (c == l)
                     {
-                        
                         Console.Write(" {0}X{1}: {2} ", l + 1, c + 1, matriz[l, c]);
                     }
                    
