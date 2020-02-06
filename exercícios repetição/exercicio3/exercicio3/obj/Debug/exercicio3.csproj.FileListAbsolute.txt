@@ -3,3 +3,6 @@ C:\Users\30719.ETECPAOF.000\Desktop\exercicio3\exercicio3\bin\Debug\exercicio3.e
 C:\Users\30719.ETECPAOF.000\Desktop\exercicio3\exercicio3\bin\Debug\exercicio3.pdb
 C:\Users\30719.ETECPAOF.000\Desktop\exercicio3\exercicio3\obj\Debug\exercicio3.exe
 C:\Users\30719.ETECPAOF.000\Desktop\exercicio3\exercicio3\obj\Debug\exercicio3.pdb
+F:\--\Exemplos e exercícios c#\Exemplos-e-exerc-cios-c-\exercícios repetição\exercicio3\exercicio3\bin\Debug\exercicio3.exe.config
+F:\--\Exemplos e exercícios c#\Exemplos-e-exerc-cios-c-\exercícios repetição\exercicio3\exercicio3\obj\Debug\exercicio3.exe
+F:\--\Exemplos e exercícios c#\Exemplos-e-exerc-cios-c-\exercícios repetição\exercicio3\exercicio3\obj\Debug\exercicio3.pdb

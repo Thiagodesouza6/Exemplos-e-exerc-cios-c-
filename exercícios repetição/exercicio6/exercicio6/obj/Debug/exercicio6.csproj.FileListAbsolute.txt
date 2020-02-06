@@ -12,3 +12,6 @@ F:\exercicio6\exercicio6\obj\Debug\exercicio6.csprojResolveAssemblyReference.cac
 F:\--\c#\exercicio6\exercicio6\bin\Debug\exercicio6.exe.config
 F:\--\c#\exercicio6\exercicio6\obj\Debug\exercicio6.exe
 F:\--\c#\exercicio6\exercicio6\obj\Debug\exercicio6.pdb
+F:\--\Exemplos e exercícios c#\Exemplos-e-exerc-cios-c-\exercícios repetição\exercicio6\exercicio6\bin\Debug\exercicio6.exe.config
+F:\--\Exemplos e exercícios c#\Exemplos-e-exerc-cios-c-\exercícios repetição\exercicio6\exercicio6\obj\Debug\exercicio6.exe
+F:\--\Exemplos e exercícios c#\Exemplos-e-exerc-cios-c-\exercícios repetição\exercicio6\exercicio6\obj\Debug\exercicio6.pdb

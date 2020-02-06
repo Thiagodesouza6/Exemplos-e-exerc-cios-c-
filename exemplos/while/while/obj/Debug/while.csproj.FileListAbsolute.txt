@@ -6,3 +6,6 @@ c:\users\30719.etecpaof.000\documents\visual studio 2015\Projects\while\while\ob
 C:\Users\30719.ETECPAOF.000\Desktop\while\while\bin\Debug\@while.exe.config
 C:\Users\30719.ETECPAOF.000\Desktop\while\while\obj\Debug\@while.exe
 C:\Users\30719.ETECPAOF.000\Desktop\while\while\obj\Debug\@while.pdb
+F:\--\Exemplos e exercícios c#\Exemplos-e-exerc-cios-c-\exemplos\while\while\bin\Debug\@while.exe.config
+F:\--\Exemplos e exercícios c#\Exemplos-e-exerc-cios-c-\exemplos\while\while\obj\Debug\@while.exe
+F:\--\Exemplos e exercícios c#\Exemplos-e-exerc-cios-c-\exemplos\while\while\obj\Debug\@while.pdb

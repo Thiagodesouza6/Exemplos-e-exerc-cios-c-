@@ -7,3 +7,6 @@ C:\Users\30719.ETECPAOF.000\Desktop\exercicio2\exercicio2\obj\Debug\exercicio2.c
 F:\exercicio2\exercicio2\bin\Debug\exercicio2.exe.config
 F:\exercicio2\exercicio2\obj\Debug\exercicio2.exe
 F:\exercicio2\exercicio2\obj\Debug\exercicio2.pdb
+F:\--\Exemplos e exercícios c#\Exemplos-e-exerc-cios-c-\exercícios repetição\exercicio2\exercicio2\bin\Debug\exercicio2.exe.config
+F:\--\Exemplos e exercícios c#\Exemplos-e-exerc-cios-c-\exercícios repetição\exercicio2\exercicio2\obj\Debug\exercicio2.exe
+F:\--\Exemplos e exercícios c#\Exemplos-e-exerc-cios-c-\exercícios repetição\exercicio2\exercicio2\obj\Debug\exercicio2.pdb

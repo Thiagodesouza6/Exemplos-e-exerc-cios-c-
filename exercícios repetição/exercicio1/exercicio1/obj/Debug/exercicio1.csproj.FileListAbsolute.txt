@@ -8,3 +8,6 @@ C:\Users\30719.ETECPAOF.000\Desktop\exercicio1\exercicio1\obj\Debug\exercicio1.p
 F:\exercicio1\exercicio1\bin\Debug\exercicio1.exe.config
 F:\exercicio1\exercicio1\obj\Debug\exercicio1.exe
 F:\exercicio1\exercicio1\obj\Debug\exercicio1.pdb
+F:\--\Exemplos e exercícios c#\Exemplos-e-exerc-cios-c-\exercícios repetição\exercicio1\exercicio1\bin\Debug\exercicio1.exe.config
+F:\--\Exemplos e exercícios c#\Exemplos-e-exerc-cios-c-\exercícios repetição\exercicio1\exercicio1\obj\Debug\exercicio1.exe
+F:\--\Exemplos e exercícios c#\Exemplos-e-exerc-cios-c-\exercícios repetição\exercicio1\exercicio1\obj\Debug\exercicio1.pdb
