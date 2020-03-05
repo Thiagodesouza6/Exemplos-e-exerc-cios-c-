@@ -8,8 +8,21 @@ namespace lanchonete
 {
     class lanchonete
     {
-        public String
-        public String
-        public String
+        //atributos
+        public int lanches;
+        public int refrigerantes;
+        public double dinheiro;
+        public double total;
+        public double dinheirorecebido;
+        //metodo para calcular o total a pagar
+        public void calculatotalapagar()
+        {
+            this.total = this.lanches * 6 + this.refrigerantes * 2;
+        }
+        //metodo para calcular o troco
+        public void calculatroco()
+        {
+
+        }
     }
 }
